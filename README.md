@@ -78,7 +78,7 @@ Write your code in `src/dream-team.js`.
 
 --- -->
 
-### **What season?**
+<!-- ### **What season?**
 
 Your task is to implement the function `getSeason(date)` that accepts `Date` object and returns the time of the year that matches it.
 Time of the year must be `string`.
@@ -89,11 +89,11 @@ Time of the year must be `string`.
 <summary>Seasons in English</summary>
 The names of the seasons in English are: spring, summer, autumn (fall), winter.
 
-</details>
+</details> -->
 
 ---
 
-If the `date` argument was not passed, the function must return the `string` `'Unable to determine the time of year!'`. If the `date` argument is **invalid**, the function must throw an `Error`.
+<!-- If the `date` argument was not passed, the function must return the `string` `'Unable to determine the time of year!'`. If the `date` argument is **invalid**, the function must throw an `Error`.
 
 Shh! An enemy scout has lurked among the arguments that come into this function.
 
@@ -107,9 +107,9 @@ For example:
 
 `getSeason(springDate) => 'spring'`
 
-Write your code in `src/what-season.js`.
+Write your code in `src/what-season.js`. -->
 
----
+<!-- ---
 
 ### **Tower of Hanoi**
 
@@ -140,7 +140,7 @@ For example:
 
 Write your code in `src/hanoi-tower.js`.
 
----
+--- -->
 
 ### **Transform array**
 
