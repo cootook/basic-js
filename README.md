@@ -142,7 +142,7 @@ Write your code in `src/hanoi-tower.js`.
 
 --- -->
 
-### **Transform array**
+<!-- ### **Transform array**
 
 Your task is to implement the function `transform(arr)` that takes an `array` and returns **transformed** array, based on the **control sequences** that `arr` contains.
 **Control sequences** are defined `string` elements of the mentioned `array`:
@@ -159,7 +159,7 @@ For example:
 
 The function must not affect inital array. Control sequences are applied **from left to right**. Control sequences **do not fall** into the transformed array. Control sequences in initial array don't occur in a row. If there is **no element** next to the control sequence **to which it can be applied**, **it does nothing**. The function should throw an `Error` if the `arr` is not an `Array`.
 
-Write your code in `src/transform-array.js`.
+Write your code in `src/transform-array.js`. -->
 
 ---
 
